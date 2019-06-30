@@ -14,8 +14,8 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🚀 Quick start
 
-0.  **Use Gatsby. It's great. Totally great**
-    To start using Gatsby, first start learning some React. React and Gatsby, what a combination! React is great! Gatsby is great! And the combination between the two is even awsom-er!!! Again great thing!
+0.  **Quick Start 0.0. Use gatsby!**
+    To start using Gatsby, first start learning some React. React and Gatsby, what a combination! React is great! Gatsby is great! And the combination between the two is even awsom-er!!!
 
 1.  **Create a Gatsby site.**
 
