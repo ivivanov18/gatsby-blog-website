@@ -13,7 +13,7 @@ Kick off your project with this default boilerplate. This starter ships with the
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
-0.  **Use Gatsby. It's great.**
+0.  **Quick Start 0.0. Use gatsby!**
 To start using Gatsby, first start learning some React. React and Gatsby, what a combination! React is great! Gatsby is great! And the combination between the two is even awsom-er!!!
 
 1.  **Create a Gatsby site.**
